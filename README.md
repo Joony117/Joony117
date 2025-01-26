@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 🚀 About Me
+- **tech enthusiast** with a passion for problem-solving.
+- Mountain biker and car enthusiast with extra love for making things
+- Exploring ways to make learning and building fun for everyone.
 <!--
 **Joony117/Joony117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
